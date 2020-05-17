@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7682" started-at="2020-05-16T11:16:34Z" finished-at="2020-05-16T11:16:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7682" started-at="2020-05-16T11:16:34Z" finished-at="2020-05-16T11:16:42Z">
+      <class name="Test.HomePageTest">
+        <test-method status="PASS" signature="Dresstab()[pri:0, instance:Test.HomePageTest@7e9131d5]" name="Dresstab" duration-ms="2383" started-at="2020-05-16T16:46:34Z" finished-at="2020-05-16T16:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dresstab -->
+        <test-method status="PASS" signature="SizeCheck()[pri:0, instance:Test.HomePageTest@7e9131d5]" name="SizeCheck" duration-ms="207" started-at="2020-05-16T16:46:36Z" finished-at="2020-05-16T16:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SizeCheck -->
+        <test-method status="PASS" signature="TshCheck()[pri:0, instance:Test.HomePageTest@7e9131d5]" name="TshCheck" duration-ms="2481" started-at="2020-05-16T16:46:36Z" finished-at="2020-05-16T16:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TshCheck -->
+        <test-method status="PASS" signature="VerifyTab()[pri:0, instance:Test.HomePageTest@7e9131d5]" name="VerifyTab" duration-ms="132" started-at="2020-05-16T16:46:39Z" finished-at="2020-05-16T16:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTab -->
+        <test-method status="PASS" signature="WomenTab()[pri:0, instance:Test.HomePageTest@7e9131d5]" name="WomenTab" duration-ms="2392" started-at="2020-05-16T16:46:39Z" finished-at="2020-05-16T16:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WomenTab -->
+        <test-method status="PASS" signature="verifyCount()[pri:0, instance:Test.HomePageTest@7e9131d5]" name="verifyCount" duration-ms="70" started-at="2020-05-16T16:46:41Z" finished-at="2020-05-16T16:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCount -->
+      </class> <!-- Test.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
